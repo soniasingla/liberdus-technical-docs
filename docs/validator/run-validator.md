@@ -8,7 +8,7 @@ This guide will walk you through the process of installing and running a Liberdu
 
 ## Hardware Requirements
 
-To operate a Liberdus Validator Node reliably, you can refer to the specifications provided in the official repository: <https://github.com/Liberdus/validator-dashboard>
+To operate a Liberdus Validator Node reliably, you can refer to the specifications provided in the official repository: https://github.com/Liberdus/validator-dashboard
 
 ## OS Requirements
 
